@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarthikrAock09
+- 👋 Hi, I’m @Karthik
 - 👀 I’m interested in AOSP development 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on AOSP BASED CUSTOM ROM OR ANY BUG FIXES IN CODE BASE 
